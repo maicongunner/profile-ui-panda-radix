@@ -15,15 +15,17 @@ After reading the documentation about Radix UI and Panda CSS, I developed this l
 
 ## Setup
 
-To install all project dependencies, run this command:
+In order to run the tutorials, you will have initially to setup the project locally. Make it sure you have run:
 
 ```bash
-npm i
+npm run setup
 ```
+
+That 'setup' command will clean all built (auto-generated) directories and files, besides cleaning npm cache, which is necessary sometimes since Panda might be getting cached by NextJs. Therefore, stop the server and run the setup whenever is needed.
 
 ## Run
 
-To run the project, run the following command:
+To run the development server:
 
 ```bash
 npm run dev
