@@ -9,7 +9,7 @@ This project has been created with the goal to practice the following technologi
 
 ### Challenge
 
-After reading the documentation about Radix UI and Panda CSS, I developed this layout simulating a profile editing screen:
+After reading the documentation about Radix UI and Panda CSS, I developed this layout simulating a profile editing screen. An example of this layout has been provided on production ([Profile UI](https://profile-ui-panda-radix.vercel.app/)):
 
 ![](public/profile.png)
 
