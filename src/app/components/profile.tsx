@@ -6,12 +6,10 @@ import { Avatar } from './ui/avatar';
 import { Tabs } from './ui/tabs';
 import { PandaCSS } from '../pandaCSS'
 import { Accordion } from './ui/accordion';
-import { Select } from './ui/select';
 import { Form } from './ui/form';
 import { Box } from './ui/box';
 import { Switch } from './ui/switch';
 import RadioGroup from './ui/radioGroup';
-import { Button } from './ui/button';
 
 export function Profile() {
 
@@ -112,7 +110,7 @@ export function Profile() {
                 >
                   {text}
                 </Link>
-              ))              
+              ))
             }
           </div>
         </Box>
